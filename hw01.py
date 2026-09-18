@@ -45,6 +45,8 @@ def main():
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
+    x= 27
+    print("Part 1: x =", x)
 
     # End of Part 1 ----------------------
 
